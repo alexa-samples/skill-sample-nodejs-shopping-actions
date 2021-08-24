@@ -35,11 +35,11 @@ From the top level directory, run:
 
 Then add the origin with:
 
- git remote add origin https://github.com/alexa-samples/skill-sample-nodejs-alexashoppingactions.git
+ git remote add origin https://github.com/alexa-samples/skill-sample-nodejs-shopping-actions.git
 
 or:
 
- git remote add origin git@github.com:alexa/skill-sample-nodejs-alexashoppingactions.git
+ git remote add origin git@github.com:alexa/skill-sample-nodejs-shopping-actions.git
 
 Set the upstream to the main branch.
 
