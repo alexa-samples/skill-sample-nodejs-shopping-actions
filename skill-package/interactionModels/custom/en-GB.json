@@ -1,0 +1,72 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "daily yoga skill",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "BuyItemIntent",
+          "slots": [],
+          "samples": [
+            "buy item",
+            "purchase item",
+            "purchase",
+            "buy",
+            "difficult",
+            "challenging"
+          ]
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.YesIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.NoIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.RepeatIntent",
+          "samples": []
+        },
+        {
+          "name": "AddToCartIntent",
+          "slots": [],
+          "samples": [
+            "cart",
+            "test add to cart",
+            "add item to cart",
+            "add to cart"
+          ]
+        },
+        {
+          "name": "RefundIntent",
+          "slots": [],
+          "samples": [
+            "refund item",
+            "refund purchase",
+            "refund my order",
+            "refund that",
+            "refund"
+          ]
+        }
+      ],
+      "types": []
+    }
+  },
+  "version": "67"
+}

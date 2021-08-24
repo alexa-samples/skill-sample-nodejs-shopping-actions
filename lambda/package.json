@@ -1,0 +1,16 @@
+{
+    "name": "daily-yoga",
+    "version": "1.1.0",
+    "description": "alexa shopping actions sample skill",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Amazon Alexa",
+    "license": "ISC",
+    "dependencies": {
+        "ask-sdk": "^2.9.0",
+        "i18next": "^15.0.5",
+        "i18next-sprintf-postprocessor": "^0.2.2"
+    }
+}
