@@ -1,0 +1,50 @@
+{
+  "manifest": {
+    "apis": {
+      "custom": {
+        "interfaces": []
+      }
+    },
+    "manifestVersion": "1.0",
+    "privacyAndCompliance": {
+      "allowsPurchases": false,
+      "containsAds": false,
+      "isChildDirected": false,
+      "isExportCompliant": true,
+      "isAlexaShoppingActionsEnabled": true,
+      "locales": {
+         "en-US": {},
+         "en-GB": {}
+      },
+      "usesPersonalInfo": false
+    },
+    "publishingInformation": {
+      "category": "KNOWLEDGE_AND_TRIVIA",
+      "distributionCountries": [],
+      "isAvailableWorldwide": true,
+      "locales": {
+        "en-US": {
+          "description": "Sample Full Description",
+          "examplePhrases": [
+            "Alexa open daily yoga skill",
+            "hello",
+            "help"
+          ],
+          "name": "Daily Yoga Skill",
+          "summary": "Sample Short Description"
+        },
+        "en-GB": {
+          "description": "Sample Full Description",
+          "examplePhrases": [
+            "Alexa open daily yoga skill",
+            "hello",
+            "help"
+          ],
+          "name": "Daily Yoga Skill",
+          "summary": "Sample Short Description"
+        }
+      },
+      "testingInstructions": "Sample Testing Instructions."
+    }
+  }
+}
