@@ -1,6 +1,6 @@
 ## Node.js Sample Skill for Alexa Shopping Actions
 
-This is the repository for the Alexa Shopping Actions Node.js sample. This is a basic skills that allows you to test the flow for the Add to Cart and Buy actions. 
+This is the repository for the Alexa Shopping Actions Node.js sample. This is a basic skills that allows you to test the flow for the Add to Cart and Buy actions. Refer to the [technical reference docs](https://developer.amazon.com/en-US/docs/alexa/alexa-shopping/about-alexa-shopping-actions-for-alexa-skills.html) for more information on Alexa Shopping Actions. 
 
 ## Alexa Skill Usage Instructions
 
